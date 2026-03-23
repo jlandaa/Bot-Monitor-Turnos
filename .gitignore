@@ -1,0 +1,10 @@
+# Ignorar contraseñas y variables de entorno
+.env
+
+# Ignorar carpetas del entorno virtual de Python
+venv/
+env/
+__pycache__/
+
+# Ignorar archivos temporales del sistema
+.DS_Store
