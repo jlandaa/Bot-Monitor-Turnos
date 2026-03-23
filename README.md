@@ -1,4 +1,4 @@
-# 🇪🇸 Bot Monitor de Turnos - Consulado de España
+# Bot Monitor de Turnos - Consulado de España
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Requests](https://img.shields.io/badge/Library-Requests-green.svg)
