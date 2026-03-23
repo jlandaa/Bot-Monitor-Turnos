@@ -10,7 +10,7 @@ load_dotenv()
 # ==========================================
 # --- CONFIGURACIÓN ---
 # ==========================================
-# Ahora las credenciales se leen de forma segura, ¡fuera del código fuente!
+# Ahora las credenciales se leen de forma segura fuera del código fuente
 TELEGRAM_TOKEN = os.getenv('TELEGRAM_TOKEN')
 CHAT_ID = os.getenv('CHAT_ID')
 
