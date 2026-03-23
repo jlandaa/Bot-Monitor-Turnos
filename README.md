@@ -30,7 +30,7 @@ Cuando el sistema detecta la apertura de nuevas citas, envía una alerta inmedia
    ```
 **2. Crear y activar un entorno virtual (Recomendado):**
 ```bash
-   python -m venv venv
+python -m venv venv
 # En Windows:
 .\venv\Scripts\activate
 # En Linux/macOS:
@@ -38,7 +38,7 @@ source venv/bin/activate
 ```
 **3. Instalar dependencias:**
 ```bash
-  pip install requests
+pip install requests
 ```
 **4. Configurar credenciales:**
 Abre el archivo bot.py y reemplaza las variables de configuración con los datos de tu bot de Telegram:
