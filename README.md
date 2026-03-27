@@ -25,7 +25,7 @@ Cuando el sistema detecta la apertura de nuevas citas, envía una alerta inmedia
 
 **1. Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/tu-usuario/bot-turnos-consulado.git](https://github.com/tu-usuario/bot-turnos-consulado.git)
+   git clone https://github.com/jlandaa/Bot-Monitor-Turnos
    cd bot-turnos-consulado
    ```
 **2. Crear y activar un entorno virtual (Recomendado):**
