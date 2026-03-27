@@ -51,6 +51,7 @@ CHAT_ID = 'TU_CHAT_ID_AQUI'
 Para que el bot funcione ininterrumpidamente en un servidor (como GCP o AWS):
 
 **1. Sube el script al servidor y configura el entorno Python.**
+
 **2. Inicia una sesión de multiplexor de terminal:**
 ```bash
 tmux new -s bot_consulado
