@@ -1,5 +1,8 @@
 # Bot Monitor de Turnos - Consulado de España
 
+![Status: Maintained](https://img.shields.io/badge/Status-Maintained-brightgreen?style=for-the-badge)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Requests](https://img.shields.io/badge/Library-Requests-green.svg)
 ![Telegram API](https://img.shields.io/badge/API-Telegram-blue.svg)
